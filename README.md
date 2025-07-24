@@ -1,0 +1,2 @@
+# econometria
+Analisis econometricos varios
